@@ -1,6 +1,6 @@
 # cyber-cyle-de-vie
 
-Modélisation en BPMN 2.0 (Business Process Model and Notation) du cycle de vie de l'incident de sécurité dans les différents standards de sécurité informatique. L'objectif de cette modélisation est de mettre en avant le facteur humain dans les étapes précédentes l'incident de sécurité.
+Modélisation en BPMN 2.0 (Business Process Model and Notation) du cycle de vie de l'incident de sécurité dans les différents standards de sécurité informatique. L'objectif de cette modélisation est de mettre en avant le facteur humain dans les étapes précédant l'incident de sécurité.
 
 ## Standards formalisés
 
