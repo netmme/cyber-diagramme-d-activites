@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T13:46:53.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="Zu-EYTCeWjAL2fj71iAn" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T13:52:46.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="MZJXZI6o1RJ_HTmS22Vb" version="21.3.5" type="github">
   <diagram name="Page-1" id="w6NB8-itPwkIWRnW1Z4t">
     <mxGraphModel dx="2161" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
           <mxGeometry x="910" y="300" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VWvn2gMX9nb7FNd9Dha_-55" value="Exécution d&#39;un programme EESS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="190" width="115" height="34.13793103448276" as="geometry" />
+          <mxGeometry x="297.5" y="177" width="115" height="34.13793103448276" as="geometry" />
         </mxCell>
         <mxCell id="VWvn2gMX9nb7FNd9Dha_-7" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="1">
           <mxGeometry x="806" y="300" width="50" height="50" as="geometry" />
