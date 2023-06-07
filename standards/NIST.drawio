@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T17:14:38.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="fw8VLx3nKt6jJyqZUtXJ" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-07T17:17:20.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="o0NcQKFp2wTOB6wMgBn8" version="21.3.7" type="github" pages="2">
   <diagram name="Page-1" id="dgAsTY6MFN22v0dg3PtI">
     <mxGraphModel dx="2948" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -432,6 +432,12 @@
               <mxPoint x="1303" y="520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sV2OfMHCmcn57ELJpI-B-75" value="Enregistrement des améliorations à faire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="437" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sV2OfMHCmcn57ELJpI-B-77" value="Envoi des améliorations à faire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="420" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
