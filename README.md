@@ -15,3 +15,11 @@ RFC 2350 : https://www.rfc-editor.org/rfc/rfc2350
 ## Standards non traités
 
 ITIL v4
+
+## Documentation BPMN 2.0
+
+https://www.omg.org/spec/BPMN/2.0/About-BPMN/
+
+https://camunda.com/bpmn/reference/
+
+https://camunda.com/bpmn/examples/
