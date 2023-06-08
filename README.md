@@ -1,4 +1,4 @@
-# cyber-cyle-de-vie
+# Cyber diagramme d'activités
 
 Modélisation en BPMN 2.0 (Business Process Model and Notation) du cycle de vie de l'incident de sécurité informatique dans les différents standards de sécurité informatique. L'objectif de cette modélisation est de mettre en avant le facteur humain dans les étapes précédant l'incident de sécurité. Parler de cycle de vie est un abus de langage, il serait plus juste de parler du diagramme d'activité de l'incident de sécurité informatique.
 
