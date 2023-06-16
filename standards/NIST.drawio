@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T13:42:30.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="QOWZURt3tM77i7mrgGcG" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T13:50:38.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="oa6f6PU4z6pv1WLrbAkT" version="21.4.0" type="github">
   <diagram id="uX0c-UHxzICFUiosJeX8" name="Page-2">
     <mxGraphModel dx="1433" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -159,15 +159,6 @@
         <mxCell id="sV2OfMHCmcn57ELJpI-B-46" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="1" vertex="1">
           <mxGeometry x="1391.25" y="570" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sV2OfMHCmcn57ELJpI-B-47" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1330" y="504" width="95" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sV2OfMHCmcn57ELJpI-B-48" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="sV2OfMHCmcn57ELJpI-B-47" vertex="1">
-          <mxGeometry x="-11.25" y="11.25" width="40" height="17.5" as="geometry" />
-        </mxCell>
-        <mxCell id="sV2OfMHCmcn57ELJpI-B-49" value="Jusqu&#39;à retour à l&#39;état normal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sV2OfMHCmcn57ELJpI-B-47" vertex="1">
-          <mxGeometry x="5" y="5" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="sV2OfMHCmcn57ELJpI-B-64" value="" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1352.5" y="430" width="50" height="60" as="geometry" />
         </mxCell>
@@ -220,6 +211,9 @@
         </mxCell>
         <mxCell id="Cq0mXHCnPKmDUkQ41efG-4" value="L&#39;évènement est-il un incident ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1175" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oCm_amAaaY52toiDZRuH-1" value="Jusqu&#39;à retour&lt;br&gt;à l&#39;état normal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="520" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
